@@ -103,3 +103,129 @@ body {
   cursor: pointer;
 }
 
+.n9 button:hover {
+  background-color: lightgray;
+}
+
+.n9 p {
+  font-size: 9px;
+}
+
+.n9 span {
+  background-color: black;
+  color: white;
+  padding: 2px 5px;
+  border-radius: 50%;
+  margin-left: 5px;
+}
+
+.n10 {
+  width: 100%;
+  background-color: white;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 7px silver;
+}
+
+.n10 img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  display: block;
+}
+
+.n11 {
+  padding: 10px;
+}
+
+.n11 h2 {
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.n12 {
+  width: 32%;
+}
+
+.n13 {
+  width: 100%;
+  background-color: white;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 7px silver;
+}
+
+.n13 img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  display: block;
+}
+
+.n14 {
+  padding: 10px;
+}
+
+.n14 h2 {
+  font-size: 12px;
+  font-weight: normal;
+  margin-bottom: 8px;
+}
+
+.n14 p {
+  font-size: 20px;
+  line-height: 1.5;
+  color: dimgray;
+}
+
+.n15 {
+  width: 100%;
+  background-color: white;
+  box-shadow: 0 2px 7px silver;
+  margin-bottom: 20px;
+  border: 1px solid gray;
+}
+
+.n15 h3 {
+  background-color: gainsboro;
+  padding: 10px;
+  font-size: 30px;
+  font-weight: normal;
+  color: dimgray;
+}
+
+.n16 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px;
+  border-bottom: 1px solid lightgray;
+  border: 1px solid gray;
+}
+
+.n16:hover {
+  background-color: lightgray;
+}
+
+.n16 img {
+  width: 25px;
+  height: 35px;
+  object-fit: cover;
+}
+
+.n16 p {
+  font-size: 25px;
+  margin-bottom: 3px;
+}
+
+.n16 h4 {
+  font-size: 13px;
+  color: gray;
+}
+
+n17 {
+  width: 100%;
+  background-color: white;
+  box-shadow: 0 2px 7px silver;
+  margin-bottom: 20px;
+}
+
+ 
