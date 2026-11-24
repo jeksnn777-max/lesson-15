@@ -228,4 +228,48 @@ n17 {
   margin-bottom: 20px;
 }
 
- 
+.n17 h3 {
+  padding: 10px;
+  font-size: 12px;
+  font-weight: normal;
+  color: dimgray;
+  border-bottom: 1px solid gainsboro;
+}
+
+.n18 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  padding: 10px;
+}
+
+.n18 p {
+  background-color: whitesmoke;
+  color: dimgray;
+  font-size: 15px;
+  padding: 3px 5px;
+  border: 2px solid gray;
+}
+.qadriddin {
+  background-color: dimgray;
+  height: 160px;
+}
+
+.qadriddin1 {
+  display: flex;
+  gap: 20px;
+  font-size: 30px;
+  margin-left: 50px;
+}
+
+.qadriddin2 {
+  background-color: grey;
+  color: darkgray;
+  margin-top: 50px;
+}
+
+.qadriddin3 {
+  background-color: black;
+  color: white;
+  margin-top: 51px;
+}
